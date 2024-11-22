@@ -2,6 +2,7 @@ body {
     color: white;
     background: black;
     margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
 }
 header {
 
@@ -14,7 +15,7 @@ header {
     font-size: 32px;
     color: rgb(42, 122, 228);
 }
-/* código omitido */
+
 
 section {
     background: rgb(184, 156, 213);
@@ -27,3 +28,24 @@ section {
     .chamada-texto {
         margin-right: 5%;
     }
+    h1 {
+        font-size: 40px;
+      }
+      
+      p {
+        font-size: 20px;
+      }
+      img {
+        height: 200px;
+      }
+      .categoria-videos {
+        display: flex;
+        overflow-x: auto;
+        gap: 10px;
+      }
+      section {
+        .categoria }
+        padding-left: 20px;
+        padding-right: 20px;
+
+    
